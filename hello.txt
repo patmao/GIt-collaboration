@@ -6,3 +6,6 @@ Now I want to try pull request, so I edit some texts here to make in change on G
 
 
 Hi cool, Now I can see the change you made on Git after I pull request on my local terminal
+
+
+That's good to hear, now I want you to try pull request one more time, but this time on VS code.
